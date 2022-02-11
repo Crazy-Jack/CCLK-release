@@ -1,0 +1,7 @@
+{
+    "cifar10": "data/Cifar/datafolder",
+    "imagenet": "data/imagenet100/datafolder",
+    "cub": "data/CUB/datafolder",
+    "utzappos": "data/UTzappos-sub/datafolder",
+    "colorMNIST": "data/colormnist/datafolder"
+}

@@ -1,0 +1,3 @@
+{
+    "imagenet100-clip": "data/imagenet100/features.pkl"
+}

@@ -1,0 +1,4 @@
+{
+    "cub": "data/CUB/meta_data_bin_train.csv",
+    "utzappos": "data/UTzappos-sub/meta_data_bin_train.csv"
+}
